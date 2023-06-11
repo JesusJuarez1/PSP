@@ -1,0 +1,6 @@
+3 atributos	
+
+
+frente -> 4/4
+fin -> 2/4
+iterador -> 1/4

@@ -1,0 +1,8 @@
+clase		metodos		lineas
+Main		2		21
+Lineas		6		85
+Archivo 	1		30
+Entrada		2		26
+Salida		1		5
+
+Total: 	169
